@@ -1,0 +1,17 @@
+{
+    "name": "nicolefrankie/pdc10-generating-pdf",
+    "autoload": {
+        "psr-4": {
+            "nicolefrankie\\Pdc10GeneratingPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolefrankie",
+            "email": "colecapuno@gmail.com"
+        }
+    ],
+    "require": {
+        "fpdf/fpdf": "^1.84"
+    }
+}
